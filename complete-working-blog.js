@@ -167,6 +167,7 @@ class EnhancedBlog {
             closeBtn.addEventListener('click', (e) => {
                 e.stopPropagation();
                 sidebar.classList.remove('mobile-visible');
+                sidebar.classList.add('mobile-hidden');
             });
             sidebar.appendChild(closeBtn);
         }
@@ -174,12 +175,14 @@ class EnhancedBlog {
             mobileToggle.addEventListener('click', (e) => {
                 e.stopPropagation();
                 sidebar.classList.toggle('mobile-visible');
+                sidebar.classList.remove('mobile-hidden');
             });
             // Hide sidebar when clicking outside
             document.addEventListener('click', (e) => {
                 if (window.innerWidth <= 1024 && sidebar.classList.contains('mobile-visible')) {
                     if (!sidebar.contains(e.target) && !mobileToggle.contains(e.target)) {
                         sidebar.classList.remove('mobile-visible');
+                        sidebar.classList.add('mobile-hidden');
                     }
                 }
             });
