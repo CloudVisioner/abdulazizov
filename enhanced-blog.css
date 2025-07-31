@@ -526,6 +526,7 @@ body {
         left: 0;
         top: 0;
         height: 100vh;
+        min-height: 100vh;
         width: 80vw;
         max-width: 320px;
         background: var(--bg-secondary);
@@ -535,9 +536,13 @@ body {
         transition: transform 0.3s cubic-bezier(.4,0,.2,1);
         display: flex;
         flex-direction: column;
+        justify-content: flex-start;
+        align-items: stretch;
+        padding-bottom: 2rem;
     }
     .sidebar.mobile-visible {
         transform: translateX(0);
+        display: flex;
     }
     .sidebar .theme-toggle {
         display: none;
@@ -563,6 +568,11 @@ body {
         color: var(--text-primary);
         z-index: 2200;
         cursor: pointer;
+    }
+    /* Prevent menu button from overlapping with main content */
+    .main-content {
+        position: relative;
+        z-index: 1;
     }
 }
 
