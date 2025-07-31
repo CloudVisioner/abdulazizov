@@ -1,3 +1,5 @@
+
+        
 // Enhanced Blog JavaScript - Complete Working Version
 class EnhancedBlog {
     constructor() {
@@ -84,10 +86,13 @@ class EnhancedBlog {
     loadPosts() {
         // Simulate fetching posts from a data source (could be replaced with fetch/ajax)
         // If a post is missing a title, generate it
-        this.posts = (this.posts || []).map(post => ({
-            ...post,
-            title: post.title || this.generateTitle(post.content)
-        }));
+        // Sort posts by date descending (newest first)
+        this.posts = (this.posts || [])
+            .map(post => ({
+                ...post,
+                title: post.title || this.generateTitle(post.content)
+            }))
+            .sort((a, b) => new Date(b.date) - new Date(a.date));
         this.filteredPosts = [...this.posts];
         this.renderPosts();
     }
