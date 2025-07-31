@@ -365,6 +365,13 @@ class EnhancedBlog {
         const post = this.posts.find(p => p.id === postId);
         if (!post) return;
 
+        // Hide sidebar on mobile when viewing a post
+        if (window.innerWidth <= 1024) {
+            document.body.classList.add('single-post');
+            const sidebar = document.getElementById('sidebar');
+            if (sidebar) sidebar.classList.remove('mobile-visible');
+        }
+
         const postsContainer = document.getElementById('postsContainer');
         const singlePost = document.getElementById('singlePost');
         if (postsContainer) postsContainer.style.display = 'none';
@@ -391,7 +398,10 @@ class EnhancedBlog {
         const postsContainer = document.getElementById('postsContainer');
         if (singlePost) singlePost.style.display = 'none';
         if (postsContainer) postsContainer.style.display = 'block';
-        
+        // Show sidebar again on mobile when returning to main
+        if (window.innerWidth <= 1024) {
+            document.body.classList.remove('single-post');
+        }
         // Clear active state from sidebar links
         document.querySelectorAll('.nav-link').forEach(link => link.classList.remove('active'));
         
