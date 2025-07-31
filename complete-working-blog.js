@@ -260,6 +260,15 @@ class EnhancedBlog {
     }
 
     renderSidebar() {
+        // Only show sidebar on mobile if not in single post view
+        if (window.innerWidth <= 1024 && document.body.classList.contains('single-post')) {
+            const sidebar = document.getElementById('sidebar');
+            if (sidebar) sidebar.style.display = 'none';
+            return;
+        } else if (window.innerWidth <= 1024) {
+            const sidebar = document.getElementById('sidebar');
+            if (sidebar) sidebar.style.display = '';
+        }
         const categoryList = document.getElementById('categoryList');
         if (!categoryList) return;
         categoryList.innerHTML = this.posts.map(post =>
