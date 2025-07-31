@@ -521,12 +521,18 @@ body {
 
 /* --- MOBILE MENU & SIDEBAR IMPROVEMENTS --- */
 @media (max-width: 1024px) {
+    /* Hide blog title and posts title on mobile */
+    .blog-title,
+    .posts-title {
+        display: none !important;
+    }
+    /* Sidebar always covers full height and is visible when menu is open */
     .sidebar {
-        position: fixed;
+        position: fixed !important;
         left: 0;
         top: 0;
-        height: 100vh;
-        min-height: 100vh;
+        height: 100vh !important;
+        min-height: 100vh !important;
         width: 80vw;
         max-width: 320px;
         background: var(--bg-secondary);
@@ -539,6 +545,7 @@ body {
         justify-content: flex-start;
         align-items: stretch;
         padding-bottom: 2rem;
+        overflow-y: auto;
     }
     .sidebar.mobile-visible {
         transform: translateX(0);
@@ -556,6 +563,8 @@ body {
     }
     .main-content {
         padding-top: 4.5rem;
+        position: relative;
+        z-index: 1;
     }
     .sidebar-close {
         display: block;
@@ -568,11 +577,6 @@ body {
         color: var(--text-primary);
         z-index: 2200;
         cursor: pointer;
-    }
-    /* Prevent menu button from overlapping with main content */
-    .main-content {
-        position: relative;
-        z-index: 1;
     }
 }
 
