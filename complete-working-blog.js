@@ -34,16 +34,16 @@ class EnhancedBlog {
 <p>Agar inson doimiy o'rganib borar ekan, uning bilimi plyus "+" kabi qo'shilmaydi, balki karra kabi ko'payadi. Va qachon u bir narsani o'rgansa, qolgan 10 ta narsaga ham aql yetib qoladi. Natijada, qaysi sohani odammi bo'lmasin, u bilan soatlab suhbat qura oladi, chunki unda compoundlashgan bilim bor. Lekin inson bunda to'xtab qolmasligi kerak, chunki to'xtasa pastga qulaydi. Naval Ravikant aytadi: <em>“Agar siz o‘rganmayotgan bo‘lsangiz, demak, yemirilyapsiz.”</em></p>
 
 <h4>Odatlar</h4>
-<p>Hozir qilayotgan har bir ishimiz, kelajakdagi bizdan dalolat beradi. Siz nima qilsangiz, siz o'sha siz (<em>you are what you do</em>). <strong>Atomic Habits</strong> kitobida keltiriladi: <em>“Maqsadingiz qanchalik yuksak bo‘lmasin, siz baribir o‘zingiz yaratgan odatlar va tizimlar darajasida harakat qilasiz.”</em> Agar bizning yomon odatlar doimiy qilinib kelinarkan, hozir natija bermas, lekin 5-10 yilda og'rig'i seziladi. Lekin agar kunda oz bo‘lsa ham 10 bet kitob, 10 daqiqa yozish, 20 daqiqa shug'ullanish, 5$ saqlab qo‘yish, 5 ta so‘z yodlash — 1 yilda natija ko‘rinishni boshlaydi, agar 3-5, mayli deylik 10 yil davom etsa, siz shunchaki ajralib chiqishni boshlaysiz. Bu esa boshqalar erishmagan natijalarga olib keladi. Suv tomib-tomib toshni yoradi dermidi?</p>
+<p>Hozir qilayotgan har bir ishimiz, kelajakdagi bizdan dalolat beradi. Siz nima qilsangiz, siz o'sha siz (<em>you are what you do</em>). <strong>Atomic Habits</strong> kitobida keltiriladi: <em>“Maqsadingiz qanchalik yuksak bo‘lmasin, siz baribir o‘zingiz yaratgan odatlar va tizimlar darajasida harakat qilasiz.”</em> Agar bizning yomon odatlar doimiy qilinib kelinarkan, hozir natija bermas, lekin 5-10 yilda og'rig'i seziladi. Lekin agar kunda oz bo‘lsa ham 10 bet kitob, 10 daqiqa yozish, 20 daqiqa shug'ullanish, 5$ saqlab qo‘yish, 5 ta so'z yodlash — 1 yilda natija ko‘rinishni boshlaydi, agar 3-5, mayli deylik 10 yil davom etsa, siz shunchaki ajralib chiqishni boshlaysiz. Bu esa boshqalar erishmagan natijalarga olib keladi. Suv tomib-tomib toshni yoradi dermidi?</p>
 
 <h4>Investitsiya</h4>
-<p>Ko‘pchilik investitsiya deganda faqat treyding yoki kriptani tushunadi. Ha, bu ham compound, lekin natija kafolatlanmagan, shunchaki 50/50. Biz esa o‘ziga investitsiya qilish haqida gaplashamiz. Siz investitsiyani, pullik kurslarga, til o‘rganishga, qimmat kitoblarga, book clublarga, networking meetinglarga, sog‘ligingizga, biznesga (biznes ham 50/50, yutqazsangiz ham kamida tajriba bilan chiqasiz, baribir foyda), va kerakli resurslarga qiling. Bu investitsiya shunaqa natijasini beradiki, shunchaki sizi hali hayolingizga kelmagan bo‘ladi.</p>
+<p>Ko‘pchilik investitsiya deganda faqat treyding yoki kriptani tushunadi. Ha, bu ham compound, lekin natija kafolatlanmagan, shunchaki 50/50. Biz esa o‘ziga investitsiya qilish haqida gaplashamiz. Siz investitsiyani, pullik kurslarga, til o‘rganishga, qimmat kitoblarga, book clublarga, networking meetinglarga, sog‘ligingizga, biznesga (biznes ham 50/50, yutqazsangiz ham kamida tajriba bilan chiqasiz, baribir foyda), va kerakli resurslarga qiling. Bu investitsiya shunaqa natijasini beradiki, shunchali sizi hali hayolingizga kelmagan bo‘ladi.</p>
 
 <h4>Munosabatlarda</h4>
 <p>Har inson bilan qilayotgan muomalamiz, o‘z natijasini ko‘rsatmay qolmaydi. Siz qo‘lingizdan kelgancha odamlarga yordam berasiz, tabassum qilasiz va qo‘llab-quvvatlaysiz. Kuni kelib, sizga bir ishingizni hal qilish kerak bo‘lib qoladi, sizga tekinga xizmat ko‘rsatishadi, ish taklif qilib qolishadi va umuman hayolingizga kelmagan imkoniyatlar va yo‘llar ochila boshlaydi (<em>buni serendipity deydi</em>). Bir akamizni bilaman, pulsiz biznes boshlagan, sababi networkingi kuchli bo‘lgan. Lekin networking munosabatlarimiz orqali quriladi. Networkingni darajasi va sifati ham bor, shuni unutmaslik kerak.</p>
 
 <h4>Yozish</h4>
-<p>Qisqacha, yozish fikrni tiniq qiladi, doimiy yozib yurgan odam fikrini og‘zaki ravon yetkazadi va aniq fikrlaydi. Yozish sog‘liqqa ham foyda: stressdan olib chiqadi, tinchlantiradi, immunitetni yaxshilaydi va qon bosimini meyorida saqlaydi. Doimiy yozib yurgan odamning xotirasi kuchli bo‘ladi va yozgan bilimi miyyasiga tatuirovka bo‘lib qoladi (<em>writing is a tattoo on your brain</em>). Qisqacha deb, ancha yozvordim a?</p>
+<p>Qisqacha, yozish fikrni tiniq qiladi, doimiy yozib yurgan odam fikrini og‘zaki ravon yetkazadi va aniq fikrlaydi. Yozish sog‘liqqa ham foyda: stressdan olib chiqadi, tinchlantiradi, immunitetni yaxshilaydi va qon bosimini meyorida saqlaydi. Doimiy yozib yurgan odamning xotirasi kuchli bo‘ladi va yozgan bilimi miyyasiga tatuirovka bo'lib qoladi (<em>writing is a tattoo on your brain</em>). Qisqacha deb, ancha yozvordim a?</p>
 
 <h3>Xulosa</h3>
 <p><strong>Compound interest</strong> odamni muvofaqqiyatga yetaklovchi asosiy omil hisoblanadi. Busiz umuman iloji yo‘q. “Allohga eng mahbub amal — oz bo‘lsa ham, doimiy qilinadigan amal.” (Imom Buxoriy va Muslim rivoyati).</p>
@@ -150,22 +150,37 @@ class EnhancedBlog {
         if (themeToggle) {
             themeToggle.addEventListener('click', () => this.toggleTheme());
         }
+
+        // Mobile menu logic
+        this.setupMobileMenu();
     }
 
     setupMobileMenu() {
         const mobileToggle = document.getElementById('mobileMenuToggle');
         const sidebar = document.getElementById('sidebar');
-
-        if (mobileToggle && sidebar) {
-            mobileToggle.addEventListener('click', () => {
-                mobileToggle.classList.toggle('active');
-                sidebar.classList.toggle('mobile-hidden');
+        // Add a close button to sidebar if not present
+        if (sidebar && !sidebar.querySelector('.sidebar-close')) {
+            const closeBtn = document.createElement('button');
+            closeBtn.className = 'sidebar-close';
+            closeBtn.innerHTML = '&times;';
+            closeBtn.setAttribute('aria-label', 'Close sidebar');
+            closeBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                sidebar.classList.remove('mobile-visible');
             });
-
+            sidebar.appendChild(closeBtn);
+        }
+        if (mobileToggle && sidebar) {
+            mobileToggle.addEventListener('click', (e) => {
+                e.stopPropagation();
+                sidebar.classList.toggle('mobile-visible');
+            });
+            // Hide sidebar when clicking outside
             document.addEventListener('click', (e) => {
-                if (!sidebar.contains(e.target) && !mobileToggle.contains(e.target)) {
-                    mobileToggle.classList.remove('active');
-                    sidebar.classList.add('mobile-hidden');
+                if (window.innerWidth <= 1024 && sidebar.classList.contains('mobile-visible')) {
+                    if (!sidebar.contains(e.target) && !mobileToggle.contains(e.target)) {
+                        sidebar.classList.remove('mobile-visible');
+                    }
                 }
             });
         }
