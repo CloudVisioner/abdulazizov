@@ -521,16 +521,16 @@ body {
 
 /* --- MOBILE MENU & SIDEBAR IMPROVEMENTS --- */
 @media (max-width: 1024px) {
-    /* Hide blog title and posts title on mobile */
+    /* Hide blog title and posts title everywhere on mobile */
     .blog-title,
     .posts-title {
         display: none !important;
     }
-    /* Hide posts-title in main-content only, keep in sidebar */
+    /* Only show posts-title in sidebar, never in main-content */
     .main-content .posts-title {
         display: none !important;
     }
-    /* Sidebar is not fixed or sticky on mobile, just hidden/shown */
+    /* Sidebar is not fixed or sticky on mobile, just hidden/shown in main section */
     .sidebar {
         position: static !important;
         height: auto !important;
@@ -720,4 +720,12 @@ a:focus {
     clip: rect(0, 0, 0, 0);
     white-space: nowrap;
     border: 0;
+}
+
+/* Hide sidebar in single post view on mobile */
+@media (max-width: 1024px) {
+    body.single-post .sidebar,
+    body.single-post .sidebar.mobile-visible {
+        display: none !important;
+    }
 }
